@@ -1,2 +1,5 @@
+# //Next, take a look at the .gitignore file for this project. Notice that .env is included as a file to be ignored. 
+# //This is important so that you do not push the URL to your database up to GitHub.
+
 node_modules
 .env
